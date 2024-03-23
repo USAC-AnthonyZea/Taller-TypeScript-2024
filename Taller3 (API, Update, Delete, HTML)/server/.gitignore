@@ -1,0 +1,21 @@
+# Dependencias
+node_modules
+
+# Archivos de compilación TypeScript
+/dist
+
+# Archivos de configuración locales (si corresponde)
+.env
+
+# Archivos de registro y archivos de salida de debug
+*.log
+npm-debug.log*
+
+# Dependencias específicas del editor
+.vscode
+.idea
+*.swp
+
+# Otros archivos de compilación y configuración específicos del proyecto
+*.js
+*.map
